@@ -1,4 +1,3 @@
-::: {align="center"}
 # ORN Progression Intelligence
 
 ### A Multimodal AI Research Framework for Osteoradionecrosis of the Jaw
@@ -9,7 +8,6 @@ Explainable clinical research**
 *Research project in development · NMIMS MPSTME · Tata Memorial Hospital
 collaboration context*
 
-`<br/>`{=html}
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Interactive%20Visuals-Plotly-3F4F75?logo=plotly&logoColor=white)
@@ -17,11 +15,9 @@ collaboration context*
 ![Status](https://img.shields.io/badge/Status-Research%20Prototype-0F766E)
 ![Clinical](https://img.shields.io/badge/Clinical%20Use-Not%20Validated-B45309)
 
-`<br/>`{=html}
 
 **From retrospective clinical and dosimetric analysis toward
 longitudinal, multimodal ORN research.**
-:::
 
 ------------------------------------------------------------------------
 
@@ -371,10 +367,8 @@ later LSTM, ResNet-18, or TFT result substantially more defensible.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 ### Built for careful clinical AI research
 
 **ORN Progression Intelligence**\
 *An evolving research prototype --- transparent about what is measured,
 what is modelled, and what remains to be validated.*
-:::
